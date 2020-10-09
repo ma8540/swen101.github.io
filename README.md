@@ -15,6 +15,6 @@ I wouldn't consider these hobbies but I do these mainly every day.
 - _The concept of being a Software Engineer_
 
 ```
-![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thespruceeats.com%2Fgluten-free-new-york-cheesecake-1450985&psig=AOvVaw3PEsJ8pRPtfxg--IqFd1px&ust=1602369358356000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMjuh7DJqOwCFQAAAAAdAAAAABAN)
+![Image](https://www.thespruceeats.com/thmb/W-Ur-ceUIwo0XLyBPzT2VwcwgJU=/1500x1000/filters:fill(auto,1)/gluten-free-new-york-cheesecake-1450985-hero-01-dc54f9daf38044238b495c7cefc191fa.jpg)
 
 Click here to access: [RIT SE Website](https://www.rit.edu/computing/department-software-engineering)
