@@ -9,11 +9,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+#Personal Bio
+Hey, my name is Michael Ambrose. I'm from Long Island, NY and I'm a graduate from the class of 2020 in Floral Park Memorial High School.
+I love to play video games, code, and hangout with friends. I wouldn't consider these hobbies but I do these mainly every day.
 
-# Header 1
-## Header 2
-### Header 3
+![Image](https://www.thespruceeats.com/thmb/W-Ur-ceUIwo0XLyBPzT2VwcwgJU=/1500x1000/filters:fill(auto,1)/gluten-free-new-york-cheesecake-1450985-hero-01-dc54f9daf38044238b495c7cefc191fa.jpg)
 
 - Bulleted
 - List
