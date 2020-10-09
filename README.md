@@ -27,7 +27,7 @@ I wouldn't consider these hobbies but I do these mainly every day.
 
 [Link](url) and ![Image](src)
 ```
-[Cheescake](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thespruceeats.com%2Fgluten-free-new-york-cheesecake-1450985&psig=AOvVaw3PEsJ8pRPtfxg--IqFd1px&ust=1602369358356000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMjuh7DJqOwCFQAAAAAdAAAAABAN)
+![Cheescake](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thespruceeats.com%2Fgluten-free-new-york-cheesecake-1450985&psig=AOvVaw3PEsJ8pRPtfxg--IqFd1px&ust=1602369358356000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMjuh7DJqOwCFQAAAAAdAAAAABAN)
 
 Click here to access: [RIT SE Website](https://www.rit.edu/computing/department-software-engineering)
 
